@@ -53,4 +53,3 @@ g++ round_robin.cpp -o rr
 ./fcfs
 ./rr
 
-GitHub: your username here
